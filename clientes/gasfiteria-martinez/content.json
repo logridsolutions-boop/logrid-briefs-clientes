@@ -1,0 +1,48 @@
+{
+  "hero": {
+    "titulo": "Gasfitería Martínez: Expertos en Detección de Fugas de Agua",
+    "subtitulo": "Protege tu hogar y ahorra en tu recibo. Detectamos y reparamos fugas con tecnología de punta. Servicio rápido, confiable y garantizado en Lima.",
+    "cta": "Solicita tu Inspección Gratuita"
+  },
+  "secciones": [
+    {
+      "titulo": "¿Por qué elegirnos?",
+      "contenido": "Con más de 15 años de experiencia, Gasfitería Martínez se especializa en detectar fugas invisibles que aumentan tu consumo de agua. Utilizamos equipos de última generación y técnicas no invasivas para localizar el problema sin romper pisos ni paredes innecesariamente."
+    },
+    {
+      "titulo": "Señales de que tienes una fuga",
+      "contenido": "• Recibo de agua elevado sin explicación • Manchas de humedad en paredes o techos • Sonido de agua corriendo cuando todo está cerrado • Pisos húmedos o tibios • Contador de agua en movimiento constante. No esperes a que el problema empeore. Una fuga pequeña hoy puede convertirse en un desastre mañana."
+    },
+    {
+      "titulo": "Nuestro proceso de detección",
+      "contenido": "1. Inspección inicial y diagnóstico gratuito 2. Detección precisa con equipos especializados (geófonos, cámaras termográficas) 3. Localización exacta de la fuga sin daños estructurales 4. Reparación profesional con materiales de calidad 5. Garantía escrita de nuestro trabajo. Todo en el mismo día."
+    }
+  ],
+  "servicios": [
+    {
+      "nombre": "Detección de Fugas de Agua",
+      "descripcion": "Localización precisa de fugas ocultas en tuberías, paredes y pisos usando tecnología acústica y termográfica. Sin roturas innecesarias."
+    },
+    {
+      "nombre": "Reparación de Tuberías",
+      "descripcion": "Reparación y cambio de tuberías de agua potable y desagüe. Trabajamos con PVC, cobre y materiales modernos. Garantía incluida."
+    },
+    {
+      "nombre": "Instalación de Sanitarios",
+      "descripcion": "Instalación y reparación de inodoros, lavatorios, duchas y grifería. Servicio completo para baños y cocinas."
+    },
+    {
+      "nombre": "Mantenimiento Preventivo",
+      "descripcion": "Inspecciones programadas para evitar problemas futuros. Ideal para casas, edificios y negocios. Planes mensuales disponibles."
+    },
+    {
+      "nombre": "Destape de Desagües",
+      "descripcion": "Eliminación de obstrucciones en desagües, baños y cocinas con equipos profesionales. Atención de emergencias 24/7."
+    },
+    {
+      "nombre": "Emergencias 24/7",
+      "descripcion": "Atención inmediata para fugas graves, roturas de tuberías y problemas urgentes. Llegamos rápido cuando más nos necesitas."
+    }
+  ],
+  "cta_final": "¡No dejes que una fuga arruine tu hogar! Llama ahora al 999 888 777 o escríbenos por WhatsApp para una inspección gratuita. Gasfitería Martínez: Tu tranquilidad es nuestra prioridad."
+}
