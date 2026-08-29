@@ -1,0 +1,38 @@
+```json
+{
+  "hero": {
+    "titulo": "Tu sonrisa perfecta comienza aquí",
+    "subtitulo": "Clínica dental especializada en tratamientos de ortodoncia, blanqueamiento e implantes con tecnología de vanguardia y atención personalizada",
+    "cta": "Agenda tu cita ahora"
+  },
+  "secciones": [
+    {
+      "titulo": "¿Por qué elegirnos?",
+      "contenido": "En Clínica Prueba Logrid combinamos experiencia profesional con tecnología de última generación para brindarte tratamientos dentales de calidad superior. Nuestro equipo de especialistas está comprometido con tu bienestar y la salud de tu sonrisa."
+    },
+    {
+      "titulo": "Proceso simple y transparente",
+      "contenido": "1. Agenda tu primera consulta gratuita | 2. Diagnóstico personalizado con tecnología 3D | 3. Plan de tratamiento a tu medida | 4. Seguimiento continuo hasta lograr tu sonrisa ideal"
+    },
+    {
+      "titulo": "Testimonios",
+      "contenido": "Miles de pacientes satisfechos confían en nosotros. Descubre cómo hemos transformado sonrisas y cambiado vidas con nuestros tratamientos especializados."
+    }
+  ],
+  "servicios": [
+    {
+      "nombre": "Ortodoncia",
+      "descripcion": "Corrige la posición de tus dientes con brackets tradicionales o alineadores invisibles. Resultados garantizados con seguimiento personalizado."
+    },
+    {
+      "nombre": "Blanqueamiento Dental",
+      "descripcion": "Recupera el blanco natural de tus dientes con nuestro tratamiento profesional. Resultados visibles desde la primera sesión, sin sensibilidad."
+    },
+    {
+      "nombre": "Implantes Dentales",
+      "descripcion": "Reemplaza piezas dentales perdidas con implantes de titanio de alta calidad. Solución permanente para recuperar tu sonrisa completa."
+    }
+  ],
+  "cta_final": "Transforma tu sonrisa hoy - Primera consulta GRATIS"
+}
+```
