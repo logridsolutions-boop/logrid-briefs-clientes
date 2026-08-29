@@ -1,0 +1,36 @@
+{
+  "hero": {
+    "titulo": "Pan Artesanal Recién Horneado Cada Día",
+    "subtitulo": "En Panadería El Trigal 2 elaboramos con pasión pan tradicional y pastelería fina desde 1995. Ingredientes naturales, recetas de familia y el sabor de siempre.",
+    "cta": "Haz tu pedido ahora"
+  },
+  "secciones": [
+    {
+      "titulo": "Nuestra Historia",
+      "contenido": "Somos una panadería familiar con más de 25 años endulzando los hogares de nuestra comunidad. Cada pieza que sale de nuestro horno lleva el cariño y la dedicación de nuestros maestros panaderos, quienes trabajan desde la madrugada para que disfrutes del pan más fresco."
+    },
+    {
+      "titulo": "¿Por Qué Elegirnos?",
+      "contenido": "Utilizamos únicamente ingredientes naturales sin conservantes. Nuestras masas madre fermentan lentamente para lograr ese sabor y textura inigualables. Horneamos en pequeños lotes durante todo el día para garantizar frescura constante."
+    },
+    {
+      "titulo": "Pedidos y Delivery",
+      "contenido": "Hacemos tu vida más fácil. Realiza tu pedido por WhatsApp o teléfono y recíbelo en la puerta de tu casa. Delivery disponible de lunes a domingo. Pedidos especiales para eventos con 48 horas de anticipación."
+    }
+  ],
+  "servicios": [
+    {
+      "nombre": "Pan Artesanal Diario",
+      "descripcion": "Variedades de pan recién horneado: francés, ciabatta, integral, centeno, masa madre y más. Disponible desde las 6:00 AM todos los días."
+    },
+    {
+      "nombre": "Pastelería para Eventos",
+      "descripcion": "Tortas personalizadas, bocaditos dulces y salados, mesa de postres completa. Diseños únicos para bodas, cumpleaños, bautizos y eventos corporativos."
+    },
+    {
+      "nombre": "Delivery a Domicilio",
+      "descripcion": "Recibe tu pan fresco y pedidos especiales en la comodidad de tu hogar. Servicio rápido y confiable en toda la zona. Consulta cobertura y horarios disponibles."
+    }
+  ],
+  "cta_final": "Prueba el sabor de lo auténtico. ¡Ordena tu pan artesanal hoy!"
+}
